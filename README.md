@@ -33,7 +33,11 @@ I'm Stephen Scribner, a Security+ certified professional and recent graduate of 
 
 I'm enthusiastic about connecting with like-minded professionals who share a passion for the cybersecurity industry. Let's broaden our understanding of the field together and connect with talented individuals shaping its future.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/s-scribner/)!
+Connect with me on  <a href="https://www.linkedin.com/in/s-scribner/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
 
 Feel free to explore my repositories below and let's collaborate on exciting projects. 🔗
 
